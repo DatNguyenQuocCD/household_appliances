@@ -1,0 +1,10 @@
+2022-12-11T14:46:50+00:00 CRITICAL Out of memory (allocated 81788928) (tried to allocate 20480 bytes) in C:\xampp\htdocs\household_appliances\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-notices.php on line 596
+
+2022-12-11T14:50:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\household_appliances\wp-includes\Requests\Transport\cURL.php on line 484
+
+2022-12-11T15:28:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\household_appliances\wp-includes\Requests\Transport\cURL.php on line 484
+
+2022-12-11T15:29:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\household_appliances\wp-includes\Requests\Transport\cURL.php on line 484
+
+2022-12-11T15:32:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\household_appliances\wp-includes\Requests\Transport\cURL.php on line 484
+
